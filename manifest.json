@@ -1,0 +1,21 @@
+{
+  "short_name": "Hoodloomz",
+  "name": "Hoodloomz Art",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "512x512 256x256 128x128 96x96 64x64 48x48 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/assets/images/icon192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/images/icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
